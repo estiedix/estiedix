@@ -1,4 +1,13 @@
-## Hi there 👋
+# Estie Dix
+
+I build AI and automation systems for small businesses where the owner is still the switchboard.
+
+I figure out what’s actually eating your time, then build the system that handles it. I turn messy complexity into something usable.
+
+## Find me
+
+- My work: [estie.net](https://estie.net)
+- My writing: [estienet.substack.com](https://estienet.substack.com)
 
 <!--
 **estiedix/estiedix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
